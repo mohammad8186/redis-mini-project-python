@@ -1,6 +1,8 @@
 # the redis database mini project 
 # Password manager app with crud functionality using AES encryption
 
+# you can see the Actions.py file in actions directory  which is implemented to perform like a python shell for having transaction with redis local server
+
 
 ## List of commands you can use 
 
