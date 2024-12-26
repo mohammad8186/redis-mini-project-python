@@ -1,4 +1,5 @@
 # the redis database mini project 
+# Password manager app with crud functionality using AES encryption
 
 
 ## List of commands you can use 
